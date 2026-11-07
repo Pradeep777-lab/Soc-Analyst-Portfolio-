@@ -1,0 +1,4 @@
+indicator,type,evidence_status,context
+files.bpakcaging.xyz,domain,observed HTTP host,Script and EXE retrieval
+167.71.211.113,IPv4,referenced in script,Candidate outbound destination; transfer unverified
+Invoice.zip,filename,observed email MIME,Invoice lure attachment

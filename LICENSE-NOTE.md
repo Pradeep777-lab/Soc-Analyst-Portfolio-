@@ -1,0 +1,1 @@
+This repository contains original analysis and user-captured lab screenshots. Check TryHackMe terms and remove sensitive or restricted content before public upload. No license is granted to redistribute third-party lab data.

@@ -1,0 +1,4 @@
+indicator,type,evidence_status,context
+paylink-cdn.thm:8067,domain:port,observed in script block,Remote PowerShell script URL
+svchost_update.ps1,filename,observed in script block,TEMP staging script
+Q3_PressKit_Feedback.docm,filename,observed in process telemetry,Word parent command line
